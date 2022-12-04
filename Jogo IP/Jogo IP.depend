@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670110595 source:c:\users\ferna\desktop\programas\jogo porra finalmente\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1670110595 source:c:\users\ferna\desktop\programas\jogo ip\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
